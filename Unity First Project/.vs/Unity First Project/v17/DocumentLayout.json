@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|c:\\users\\thefe\\documents\\unity5\\unity first project\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\escapepipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\escapepipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\managers\\mazegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\mazegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\prefabspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prefabspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\doors\\mazedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doors\\mazedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\managers\\spawnerobjectmazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\spawnerobjectmazemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\doors\\refugedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doors\\refugedoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\startdaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startdaybutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\inventary\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventary\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\inventary\\farmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventary\\farmitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\inventary\\lintern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventary\\lintern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\assets\\scripts\\interfaces\\icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358A3EC7-75DA-9936-85E5-D62840AA0DDC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interfaces\\icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EscapePipe.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\EscapePipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EscapePipe.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\EscapePipe.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EscapePipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:19:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrefabSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\PrefabSpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PrefabSpawn.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\PrefabSpawn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PrefabSpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:34:00.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MazeDoor.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Doors\\MazeDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Doors\\MazeDoor.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Doors\\MazeDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Doors\\MazeDoor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:40:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefugeDoor.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Doors\\RefugeDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Doors\\RefugeDoor.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Doors\\RefugeDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Doors\\RefugeDoor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:40:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FarmItem.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\FarmItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventary\\FarmItem.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\FarmItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventary\\FarmItem.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwE8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:28:47.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICollectable.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Interfaces\\ICollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interfaces\\ICollectable.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Interfaces\\ICollectable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interfaces\\ICollectable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:13:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lintern.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\Lintern.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventary\\Lintern.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\Lintern.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventary\\Lintern.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:13:58.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\HUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\HUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:00:52.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventary\\Inventory.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Inventary\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventary\\Inventory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:58:59.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpawnerObjectMazeManager.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Managers\\SpawnerObjectMazeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SpawnerObjectMazeManager.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Managers\\SpawnerObjectMazeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SpawnerObjectMazeManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:54:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartDayButton.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\StartDayButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartDayButton.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\StartDayButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartDayButton.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:17:02.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MazeGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Managers\\MazeGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MazeGameManager.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Managers\\MazeGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MazeGameManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:33:05.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\thefe\\Documents\\Unity5\\Unity First Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ4AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:59:27.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
